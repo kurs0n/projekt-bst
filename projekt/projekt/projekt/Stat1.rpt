@@ -1,4 +1,4 @@
-CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 17:23:21 2024   PAGE     1
+CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 18:51:56 2024   PAGE     1
 
                                     projekt                                     
 
@@ -10,10 +10,10 @@ CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 17:23:21 2024   PAGE     1
 LINK                   DELIVERED RST/ERR  AVERAGE    STD DEV    MAXIMUM   UTIL
 _____________________  _________ ______  _________  _________  _________  _____
 
-CSMA/CA link               17258      0      2.312      6.037    146.917  46.20
+CSMA/CA link               10840      0     45.465     67.221    317.135  21.29
 
 
-CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 17:23:21 2024   PAGE     2
+CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 18:51:56 2024   PAGE     2
 
                                     projekt                                     
 
@@ -28,35 +28,35 @@ LINK NAME                  CSMA/CA
 
 ACCESS PROTOCOL              CSMA/CA
 
-COLLISION EPISODES              4443
+COLLISION EPISODES             11849
 
-COLLIDED FRAMES                 9471
+COLLIDED FRAMES                30675
 
 NBR OF TRIES TO RESOLVE
-  AVERAGE                       1.56
-  STANDARD DEVIATION            0.95
+  AVERAGE                       3.54
+  STANDARD DEVIATION            2.21
   MAXIMUM                          7
 
-NBR OF DEFERRALS               17264
+NBR OF DEFERRALS               10870
 
 DEFERRAL DELAY  (MS)
-  AVERAGE                       0.62
-  STANDARD DEVIATION            0.43
-  MAXIMUM                       2.51
+  AVERAGE                       1.27
+  STANDARD DEVIATION            0.82
+  MAXIMUM                       5.08
 
 DEFERRAL QUEUE SIZE  (FRAMES)
-  AVERAGE                       2.13
-  STANDARD DEVIATION            1.21
-  MAXIMUM                          8
+  AVERAGE                       2.77
+  STANDARD DEVIATION            1.83
+  MAXIMUM                         49
 
 MULTIPLE COLLISION EPISODES
-  NBR EPISODES                   532
-  AVG PER EPISODE               3.10
-  MAX PER EPISODE                  5
+  NBR EPISODES                  4888
+  AVG PER EPISODE               3.43
+  MAX PER EPISODE                 11
 
 
 
-CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 17:23:21 2024   PAGE     3
+CACI COMNET III  Release 1.3 (Build 1220)  Sun Oct 27 18:51:56 2024   PAGE     3
 
                                     projekt                                     
 
@@ -69,4 +69,4 @@ ORIGIN / MSG SRC NAME:  MESSAGES          MESSAGE DELAY (MILLISECONDS)
 ______________________  _________   ____________  ____________  ____________
 
 Computer group / src Message Source:
-  Computer group            17254       1986.657      1144.304      4054.055
+  Computer group             9642       2239.793      1309.557      4574.991
